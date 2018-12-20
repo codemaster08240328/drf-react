@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7cf95b4-005c-47ac-830b-a3b350e6e21e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/DataProvider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/templates/frontend/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drf_react_quickstart/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_react_quickstart/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drf_react_quickstart/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_react_quickstart/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="f7cf95b4-005c-47ac-830b-a3b350e6e21e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +85,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/src/components/Table.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="165">
               <caret line="11" column="40" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="40" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -194,19 +180,6 @@
               <item name="drf_react_quickstart" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="drf_react_quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drf_react_quickstart" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drf_react_quickstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drf_react_quickstart" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -271,23 +244,22 @@
       <option name="presentableId" value="Default" />
       <updated>1545283576550</updated>
       <workItem from="1545283578443" duration="433000" />
-      <workItem from="1545284131141" duration="10346000" />
+      <workItem from="1545284131141" duration="10999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10779000" />
+    <option name="totallyTimeSpent" value="11432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="31" width="1901" height="980" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2506724" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2506724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32995495" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5213964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5213964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -479,7 +451,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/components/Table.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="165">
           <caret line="11" column="40" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="40" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
